@@ -3,7 +3,7 @@
 	- [[ALD-Pro]]
 	- [[FreeIPA]]
 	- [[OpenLDAP]]
-	- **план-миграции-объектов**
+	- [[задание]]
 - [[README]]
 
 %% End Waypoint %%
